@@ -297,7 +297,13 @@ footer {
     }
 
     .tagline__container h2 {
-        font-size: 40px;
+        font-size: 30px;
+    }
+    .tagline__container{
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        padding: 10px !important;
     }
 
     .update_input {
